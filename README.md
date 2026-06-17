@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 0x00_ <Zero-0>
+
+> `Surgical logic. Minimalist execution.`
+
+---
+
+### 🛠️ Current Focus
+*   **Academics:** Incoming Computer Science undergraduate.
+*   **Explorations:** Core architecture, virtualization, and network security protocols.
+*   **Projects:** Building foundational architectures under **Obsidian Labs**.
+
+### 💻 Stack & Ecosystem
+*   **Languages:** `[Insert your primary languages here]`
+*   **Environments & Tools:** Git, Linux systems, Virtualized environments.
+*   **Design Philosphy:** High-contrast, dark aesthetic, built for longevity.
+
+### ⚡ Technical Log
+*   **Synapse:** [Brief 1-sentence technical description of your SaaS project]
+*   **Neuro-Mechanical Logic:** [Brief 1-sentence technical description of your AI agent logic]
+
+---
+
+### 🌐 Connectivity
+*   **Signal:** `[Your professional email or link]`
+*   **Status:** *Stealth mode. Focusing on the fundamentals.*
