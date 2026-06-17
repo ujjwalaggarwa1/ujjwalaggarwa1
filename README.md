@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ujjwalaggarwa1/ujjwalaggarwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,28 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 0x00_ <Zero-0>
+#  Namaste!
 
-> `Surgical logic. Minimalist execution.`
+> `Coding for fun.`
 
 ---
 
 ### 🛠️ Current Focus
 *   **Academics:** Incoming Computer Science undergraduate.
-*   **Explorations:** Core architecture, virtualization, and network security protocols.
-*   **Projects:** Building foundational architectures under **Obsidian Labs**.
+*   **Explorations:** APIs, Python, Backend, 3D websites.
+*   **University:** [Lovely Professional University](https://www.lpu.in/)
+<!-- *   **Projects:** Building foundational architectures under **Obsidian Labs**. -->
 
 ### 💻 Stack & Ecosystem
-*   **Languages:** `[Insert your primary languages here]`
-*   **Environments & Tools:** Git, Linux systems, Virtualized environments.
-*   **Design Philosphy:** High-contrast, dark aesthetic, built for longevity.
-
+*   **Languages:** `Python, HTML, CSS, Javascript`
+*   **Environments & Tools:** Git, VS Code.
+*   **Design Philosphy:** Modren, dark aesthetic, built for longevity.
+<!-- 
 ### ⚡ Technical Log
 *   **Synapse:** [Brief 1-sentence technical description of your SaaS project]
-*   **Neuro-Mechanical Logic:** [Brief 1-sentence technical description of your AI agent logic]
+*   **Neuro-Mechanical Logic:** [Brief 1-sentence technical description of your AI agent logic] -->
 
 ---
 
 ### 🌐 Connectivity
-*   **Signal:** `[Your professional email or link]`
+*   **Signal:** `ujjwalaggarwl023@gmail.com`
 *   **Status:** *Stealth mode. Focusing on the fundamentals.*
