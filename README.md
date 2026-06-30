@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 *   **University:** [Lovely Professional University](https://www.lpu.in/)
 <!-- *   **Projects:** Building foundational architectures under **Obsidian Labs**. -->
 
-### 💻 Stack & Ecosystem
+### 💻 Tech-Stack & Ecosystem
 *   **Languages:** `Python, HTML, CSS, Javascript`
 *   **Environments & Tools:** Git, VS Code.
 *   **Design Philosphy:** Modren, dark aesthetic, built for longevity.
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 ---
 
 ### 🌐 Connectivity
-*   **Signal:** `ujjwalaggarwl023@gmail.com`
+*   **Signal:** `ujjwalaggarwal023@gmail.com`
 *   **Status:** *Stealth mode. Focusing on the fundamentals.*
