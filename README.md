@@ -12,8 +12,8 @@
 
 I prefer building things that are intentional, clean, and actually useful. I'm focusing on understanding the fundamentals of software and security deeply, rather than just copying and pasting code.
 
-🔭 &nbsp;I'm currently working on **Currently working on making deployment ready websites and webapps** 
-🌱 &nbsp;I'm currently learning **webservers, microcontrollers, databases, deployment, react**  
+🔭 &nbsp;I'm currently working on **Currently working on making deployment ready websites and webapps** <br>
+🌱 &nbsp;I'm currently learning **webservers, microcontrollers, databases, deployment, react**  <br>
 😄 &nbsp;Pronouns: **he/him**
 
 ### 🛠️ Tech Stack
@@ -55,15 +55,15 @@ I prefer building things that are intentional, clean, and actually useful. I'm f
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ujjwalaggarwa1&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-<!--  
+
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ujjwalaggarwa1&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ujjwalaggarwa1&bg_color=00000000&color=00d3d7&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
--->
+
 ### 💭 Dev Quote
 
 <p align="center">
